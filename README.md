@@ -59,7 +59,7 @@
 
 ![Jorge Prado's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgepradoh&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jorgepradoh&count_private=true&theme=algolia&border_radius=20)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jorgepradoh&theme=algolia&hide_border=true)](https://git.io/streak-stats)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgepradoh&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
